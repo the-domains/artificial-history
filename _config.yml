@@ -1,0 +1,14 @@
+layout_spectrum: 0.9384557751473039
+typography_spectrum: 0.4504686160944402
+color:
+  brandStrength: 0.9566408274695277
+  lightness: 0.2443490184377879
+  saturation: 0.6951741671655327
+  rhythmicContrast: 0.8004383284132928
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: artificial history
