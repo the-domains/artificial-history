@@ -16,3 +16,6 @@ navigation:
   - name: Travel Blog
     url: 'http://packit.in'
     type: external
+  - name: Portfolio
+    url: 'http://jamiearcher.co.uk'
+    type: external
