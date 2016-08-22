@@ -1,4 +1,3 @@
-layout_spectrum: 0.9384557751473039
 typography_spectrum: 0.4504686160944402
 color:
   brandStrength: 0.9566408274695277
@@ -11,6 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.9384557751473039
 name: artificial history
 navigation:
   - name: Travel Blog
@@ -19,3 +19,4 @@ navigation:
   - name: Portfolio
     url: 'http://jamiearcher.co.uk'
     type: external
+title: thoughts of sorts
