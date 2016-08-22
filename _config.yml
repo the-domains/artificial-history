@@ -12,3 +12,7 @@ color:
     - '#6B574B'
     - '#160600'
 name: artificial history
+navigation:
+  - name: Travel Blog
+    url: 'http://packit.in'
+    type: external
